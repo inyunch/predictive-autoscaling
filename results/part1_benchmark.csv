@@ -1,0 +1,71 @@
+app,cls,method,iters,time_ms,converged,diverged,f_gap,gnorm,nfev,ngev,nhev
+P1,periodic,GD (fixed),4170,135.908,True,False,5.72834e-11,9.98953e-07,4171,4171,0
+P1,periodic,GD + Wolfe,985,48.6163,True,False,4.58851e-11,9.86873e-07,1112,1112,0
+P1,periodic,Momentum,356,12.0272,True,False,5.63699e-11,9.88078e-07,357,357,0
+P1,periodic,Nesterov,365,17.2352,True,False,5.64102e-11,9.88977e-07,366,731,0
+P1,periodic,NCG (PR+),56,6.73082,True,False,1.27865e-11,7.72969e-07,176,176,0
+P1,periodic,Newton,4,0.5778,True,False,2.22045e-16,4.64601e-11,5,5,4
+P1,periodic,BFGS,49,2.68723,True,False,2.91553e-11,7.41127e-07,51,51,0
+P2,periodic,GD (fixed),5000,196.378,False,False,2.2365e-09,4.54834e-06,5001,5001,0
+P2,periodic,GD + Wolfe,1506,89.3536,True,False,1.00849e-10,9.45592e-07,1677,1677,0
+P2,periodic,Momentum,649,23.2562,True,False,1.11939e-10,9.93483e-07,650,650,0
+P2,periodic,Nesterov,654,39.8131,True,False,1.12959e-10,9.98098e-07,655,1309,0
+P2,periodic,NCG (PR+),74,13.9872,True,False,4.90619e-12,9.70027e-07,224,224,0
+P2,periodic,Newton,4,0.777834,True,False,1.11022e-16,3.68026e-09,5,5,4
+P2,periodic,BFGS,57,5.36604,True,False,2.71139e-11,8.01992e-07,59,59,0
+P3,periodic,GD (fixed),5000,192.723,False,False,5.526e-07,6.73752e-05,5001,5001,0
+P3,periodic,GD + Wolfe,2164,113.188,True,False,1.09179e-10,9.41405e-07,2484,2484,0
+P3,periodic,Momentum,1040,38.7078,True,False,1.21642e-10,9.92851e-07,1041,1041,0
+P3,periodic,Nesterov,1047,68.9456,True,False,1.23144e-10,9.99002e-07,1048,2095,0
+P3,periodic,NCG (PR+),92,13.3831,True,False,6.21059e-12,8.15912e-07,284,284,0
+P3,periodic,Newton,6,0.878102,True,False,2.22045e-16,1.1841e-11,7,7,6
+P3,periodic,BFGS,63,4.1277,True,False,2.88469e-12,1.78672e-07,66,66,0
+P4,periodic,GD (fixed),741,27.2483,True,False,3.17778e-11,9.96183e-07,742,742,0
+P4,periodic,GD + Wolfe,372,16.8125,True,False,1.85586e-11,9.89555e-07,377,377,0
+P4,periodic,Momentum,208,7.80601,True,False,7.16094e-14,5.64911e-07,209,209,0
+P4,periodic,Nesterov,81,4.09678,True,False,3.12165e-11,9.87348e-07,82,163,0
+P4,periodic,NCG (PR+),16,1.82544,True,False,3.36953e-13,7.48344e-07,42,42,0
+P4,periodic,Newton,3,0.491792,True,False,3.33067e-16,1.32103e-08,4,4,3
+P4,periodic,BFGS,20,1.30066,True,False,1.66978e-13,5.67803e-07,22,22,0
+P5,periodic,GD (fixed),1400,48.4951,True,False,1.87227e-11,9.96233e-07,1401,1401,0
+P5,periodic,GD + Wolfe,442,24.5263,True,False,1.73821e-11,9.80074e-07,475,475,0
+P5,periodic,Momentum,227,8.68189,True,False,1.17462e-13,8.93437e-07,228,228,0
+P5,periodic,Nesterov,133,7.01256,True,False,1.35678e-11,9.40466e-07,134,267,0
+P5,periodic,NCG (PR+),25,3.31286,True,False,3.36275e-12,8.06914e-07,81,81,0
+P5,periodic,Newton,3,0.412635,True,False,7.62723e-14,5.64496e-07,4,4,3
+P5,periodic,BFGS,46,2.65237,True,False,1.55542e-13,1.41617e-07,48,48,0
+B1,bursty,GD (fixed),732,28.1078,True,False,4.20086e-12,9.88419e-07,733,733,0
+B1,bursty,GD + Wolfe,256,12.8033,True,False,3.18978e-12,9.16607e-07,291,291,0
+B1,bursty,Momentum,270,9.83819,True,False,1.17795e-13,6.50041e-07,271,271,0
+B1,bursty,Nesterov,156,8.92499,True,False,5.86808e-13,4.10534e-07,157,313,0
+B1,bursty,NCG (PR+),38,4.17601,True,False,1.35725e-12,7.82506e-07,81,81,0
+B1,bursty,Newton,6,0.839863,True,False,4.77396e-15,3.40322e-08,8,7,6
+B1,bursty,BFGS,35,2.48937,True,False,3.49165e-14,2.96998e-07,38,38,0
+B2,bursty,GD (fixed),597,23.063,True,False,2.7271e-12,9.92553e-07,598,598,0
+B2,bursty,GD + Wolfe,183,10.626,True,False,2.0321e-12,9.71162e-07,213,213,0
+B2,bursty,Momentum,258,10.0472,True,False,1.23224e-12,9.15228e-07,259,259,0
+B2,bursty,Nesterov,155,8.21244,True,False,1.66533e-12,8.5052e-07,156,311,0
+B2,bursty,NCG (PR+),27,2.8818,True,False,5.24636e-13,8.13257e-07,66,66,0
+B2,bursty,Newton,6,0.716298,True,False,2.77556e-16,4.76915e-10,8,7,6
+B2,bursty,BFGS,34,2.03542,True,False,2.16327e-13,7.49135e-07,38,38,0
+B3,bursty,GD (fixed),252,9.72952,True,False,3.54322e-12,9.76692e-07,253,253,0
+B3,bursty,GD + Wolfe,113,6.1924,True,False,1.97425e-12,9.93778e-07,121,121,0
+B3,bursty,Momentum,249,9.50219,True,False,2.21934e-13,9.96326e-07,250,250,0
+B3,bursty,Nesterov,131,6.36725,True,False,1.18278e-12,7.12296e-07,132,263,0
+B3,bursty,NCG (PR+),19,1.81031,True,False,5.44786e-13,8.4298e-07,45,45,0
+B3,bursty,Newton,5,0.699206,True,False,1.77636e-15,3.04348e-08,6,6,5
+B3,bursty,BFGS,19,1.29552,True,False,2.9543e-13,5.61943e-07,21,21,0
+B4,bursty,GD (fixed),18,0.777687,True,False,3.03313e-13,6.44753e-07,19,19,0
+B4,bursty,GD + Wolfe,9,0.562366,True,False,1.28453e-13,5.14136e-07,12,12,0
+B4,bursty,Momentum,179,7.11576,True,False,2.60902e-13,7.37708e-07,180,180,0
+B4,bursty,Nesterov,27,1.49327,True,False,6.12843e-13,9.5947e-07,28,55,0
+B4,bursty,NCG (PR+),8,0.797634,True,False,1.62093e-14,1.70573e-07,17,17,0
+B4,bursty,Newton,2,0.297061,True,False,1.67089e-13,6.15571e-07,3,3,2
+B4,bursty,BFGS,9,0.689231,True,False,5.41678e-13,9.64758e-07,10,10,0
+B5,bursty,GD (fixed),5000,172.16,False,False,8.70496e-05,0.000919303,5001,5001,0
+B5,bursty,GD + Wolfe,5000,251.746,False,False,2.47373e-09,7.70748e-06,5498,5498,0
+B5,bursty,Momentum,2812,102.72,True,False,1.22144e-10,9.98349e-07,2813,2813,0
+B5,bursty,Nesterov,2844,181.347,True,False,1.21908e-10,9.97384e-07,2845,5689,0
+B5,bursty,NCG (PR+),146,30.2991,True,False,7.3711e-12,8.25275e-07,437,437,0
+B5,bursty,Newton,9,1.05279,True,False,3.91909e-14,3.47555e-08,11,10,9
+B5,bursty,BFGS,63,3.93587,True,False,6.69464e-14,1.70798e-07,67,67,0
