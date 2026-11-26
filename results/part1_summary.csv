@@ -1,15 +1,15 @@
 cls,method,median_iters,max_iters,median_time_ms,converged,diverged
-periodic,GD (fixed),4.17e+03,5000,136,3,0
-periodic,GD + Wolfe,985,2164,48.6,5,0
-periodic,Momentum,356,1040,12,5,0
-periodic,Nesterov,365,1047,17.2,5,0
-periodic,NCG (PR+),56,92,6.73,5,0
-periodic,Newton,4,6,0.578,5,0
-periodic,BFGS,49,63,2.69,5,0
-bursty,GD (fixed),597,5000,23.1,4,0
-bursty,GD + Wolfe,183,5000,10.6,4,0
-bursty,Momentum,258,2812,9.84,5,0
-bursty,Nesterov,155,2844,8.21,5,0
-bursty,NCG (PR+),27,146,2.88,5,0
-bursty,Newton,6,9,0.716,5,0
-bursty,BFGS,34,63,2.04,5,0
+periodic,GD (fixed),4.17e+03,5000,154,3,0
+periodic,GD + Wolfe,985,2164,47.6,5,0
+periodic,Momentum,356,1040,12.6,5,0
+periodic,Nesterov,365,1047,27.4,5,0
+periodic,NCG (PR+),56,92,6.95,5,0
+periodic,Newton,4,6,0.519,5,0
+periodic,BFGS,49,63,2.94,5,0
+bursty,GD (fixed),597,5000,20.6,4,0
+bursty,GD + Wolfe,183,5000,10.3,4,0
+bursty,Momentum,258,2812,9.53,5,0
+bursty,Nesterov,155,2844,7.39,5,0
+bursty,NCG (PR+),27,146,3.09,5,0
+bursty,Newton,6,9,0.786,5,0
+bursty,BFGS,34,63,2.05,5,0

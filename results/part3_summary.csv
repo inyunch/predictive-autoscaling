@@ -1,0 +1,9 @@
+K,cls,comparisons,predictive_dominates,median_cost_saving,min_cost_saving,median_overload_ratio,hybrid_dominates,hybrid_median_saving,hybrid_min_saving
+5,bursty,15,8,0.02156,-0.6148,0.9383,13,0.07425,-0.04212
+5,periodic,15,13,0.1795,0.02858,0.1915,15,0.1645,0.0283
+10,bursty,15,8,0.03147,-1.019,0.9392,12,0.07881,-0.03958
+10,periodic,15,13,0.187,0.02467,0.1977,14,0.1536,0.02424
+20,bursty,15,8,0.03945,-1.386,0.9546,12,0.08087,-0.08113
+20,periodic,15,12,0.1987,0.02395,0.1808,12,0.1902,0.023
+50,bursty,15,8,0.03994,-1.768,0.9548,12,0.09084,-0.1121
+50,periodic,15,12,0.1966,0.02494,0.1849,12,0.1912,0.02413
