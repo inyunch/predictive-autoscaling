@@ -1,0 +1,271 @@
+app,cls,budget_ratio,policy,z,spend,exp_overload
+P1,periodic,0.9,KKT optimal,-2.52252,1296,0.100074
+P1,periodic,0.9,uniform,-2.52252,1296,0.191538
+P1,periodic,0.9,proportional to mu,-2.52252,1296,0.100133
+P1,periodic,0.95,KKT optimal,-1.26126,1368,0.0519587
+P1,periodic,0.95,uniform,-1.26126,1368,0.162103
+P1,periodic,0.95,proportional to mu,-1.26126,1368,0.052086
+P1,periodic,1,KKT optimal,7.29429e-11,1440,0.0158153
+P1,periodic,1,uniform,7.29429e-11,1440,0.134236
+P1,periodic,1,proportional to mu,7.29429e-11,1440,0.0158153
+P1,periodic,1.02,KKT optimal,0.504503,1468.8,0.00778631
+P1,periodic,1.02,uniform,0.504503,1468.8,0.12348
+P1,periodic,1.02,proportional to mu,0.504503,1468.8,0.00782439
+P1,periodic,1.05,KKT optimal,1.26126,1512,0.00195872
+P1,periodic,1.05,uniform,1.26126,1512,0.107783
+P1,periodic,1.05,proportional to mu,1.26126,1512,0.00208598
+P1,periodic,1.1,KKT optimal,2.52252,1584,7.40802e-05
+P1,periodic,1.1,uniform,2.52252,1584,0.0829716
+P1,periodic,1.1,proportional to mu,2.52252,1584,0.000133182
+P1,periodic,1.15,KKT optimal,3.78377,1656,7.22992e-07
+P1,periodic,1.15,uniform,3.78377,1656,0.0603979
+P1,periodic,1.15,proportional to mu,3.78377,1656,5.59606e-06
+P1,periodic,1.2,KKT optimal,5.04501,1728,1.66317e-09
+P1,periodic,1.2,uniform,5.04501,1728,0.0410572
+P1,periodic,1.2,proportional to mu,5.04501,1728,1.40441e-07
+P1,periodic,1.3,KKT optimal,6.54827,1872,1.67359e-16
+P1,periodic,1.3,uniform,6.54827,1872,0.0144394
+P1,periodic,1.3,proportional to mu,6.54827,1872,1.17205e-11
+P2,periodic,0.9,KKT optimal,-2.16717,1296,0.100247
+P2,periodic,0.9,uniform,-2.16717,1296,0.210639
+P2,periodic,0.9,proportional to mu,-2.16717,1296,0.100396
+P2,periodic,0.95,KKT optimal,-1.08358,1368,0.0532705
+P2,periodic,0.95,uniform,-1.08358,1368,0.179959
+P2,periodic,0.95,proportional to mu,-1.08358,1368,0.0534439
+P2,periodic,1,KKT optimal,7.29429e-11,1440,0.0184085
+P2,periodic,1,uniform,7.29429e-11,1440,0.150312
+P2,periodic,1,proportional to mu,7.29429e-11,1440,0.0184085
+P2,periodic,1.02,KKT optimal,0.433433,1468.8,0.010111
+P2,periodic,1.02,uniform,0.433433,1468.8,0.138748
+P2,periodic,1.02,proportional to mu,0.433433,1468.8,0.0101546
+P2,periodic,1.05,KKT optimal,1.08358,1512,0.00327045
+P2,periodic,1.05,uniform,1.08358,1512,0.121809
+P2,periodic,1.05,proportional to mu,1.08358,1512,0.00344388
+P2,periodic,1.1,KKT optimal,2.16717,1584,0.00024747
+P2,periodic,1.1,uniform,2.16717,1584,0.0951783
+P2,periodic,1.1,proportional to mu,2.16717,1584,0.00039585
+P2,periodic,1.15,KKT optimal,3.25075,1656,7.07301e-06
+P2,periodic,1.15,uniform,3.25075,1656,0.071676
+P2,periodic,1.15,proportional to mu,3.25075,1656,3.89281e-05
+P2,periodic,1.2,KKT optimal,4.33433,1728,7.11539e-08
+P2,periodic,1.2,uniform,4.33433,1728,0.0522549
+P2,periodic,1.2,proportional to mu,4.33433,1728,3.23809e-06
+P2,periodic,1.3,KKT optimal,6.54827,1872,2.70734e-13
+P2,periodic,1.3,uniform,6.54827,1872,0.0249173
+P2,periodic,1.3,proportional to mu,6.54827,1872,8.17258e-09
+P3,periodic,0.9,KKT optimal,-1.21849,1296,0.107113
+P3,periodic,0.9,uniform,-1.21849,1296,0.382703
+P3,periodic,0.9,proportional to mu,-1.21849,1296,0.108226
+P3,periodic,0.95,KKT optimal,-0.617396,1368,0.0662703
+P3,periodic,0.95,uniform,-0.617396,1368,0.357431
+P3,periodic,0.95,proportional to mu,-0.617396,1368,0.0667368
+P3,periodic,1,KKT optimal,-0.0248807,1440,0.035073
+P3,periodic,1,uniform,-0.0248807,1440,0.332796
+P3,periodic,1,proportional to mu,-0.0248807,1440,0.0350739
+P3,periodic,1.02,KKT optimal,0.210129,1468.8,0.0258102
+P3,periodic,1.02,uniform,0.210129,1468.8,0.323116
+P3,periodic,1.02,proportional to mu,0.210129,1468.8,0.025877
+P3,periodic,1.05,KKT optimal,0.56201,1512,0.0152965
+P3,periodic,1.05,uniform,0.56201,1512,0.308777
+P3,periodic,1.05,proportional to mu,0.56201,1512,0.0157263
+P3,periodic,1.1,KKT optimal,1.14848,1584,0.00531818
+P3,periodic,1.1,uniform,1.14848,1584,0.285334
+P3,periodic,1.1,proportional to mu,1.14848,1584,0.00651946
+P3,periodic,1.15,KKT optimal,1.73416,1656,0.00143692
+P3,periodic,1.15,uniform,1.73416,1656,0.262423
+P3,periodic,1.15,proportional to mu,1.73416,1656,0.00290316
+P3,periodic,1.2,KKT optimal,2.31947,1728,0.000295545
+P3,periodic,1.2,uniform,2.31947,1728,0.240002
+P3,periodic,1.2,proportional to mu,2.31947,1728,0.00150347
+P3,periodic,1.3,KKT optimal,3.48884,1872,5.2311e-06
+P3,periodic,1.3,uniform,3.48884,1872,0.196561
+P3,periodic,1.3,proportional to mu,3.48884,1872,0.000513169
+P4,periodic,0.9,KKT optimal,-6.54827,1296,0.1
+P4,periodic,0.9,uniform,-6.54827,1296,0.101663
+P4,periodic,0.9,proportional to mu,-6.54827,1296,0.1
+P4,periodic,0.95,KKT optimal,-3.77522,1368,0.0500003
+P4,periodic,0.95,uniform,-3.77522,1368,0.0615366
+P4,periodic,0.95,proportional to mu,-3.77522,1368,0.0500003
+P4,periodic,1,KKT optimal,7.29429e-11,1440,0.00528369
+P4,periodic,1,uniform,7.29429e-11,1440,0.0337484
+P4,periodic,1,proportional to mu,7.29429e-11,1440,0.00528369
+P4,periodic,1.02,KKT optimal,1.51009,1468.8,0.000379307
+P4,periodic,1.02,uniform,1.51009,1468.8,0.026133
+P4,periodic,1.02,proportional to mu,1.51009,1468.8,0.000383204
+P4,periodic,1.05,KKT optimal,3.77522,1512,2.50443e-07
+P4,periodic,1.05,uniform,3.77522,1512,0.0171997
+P4,periodic,1.05,proportional to mu,3.77522,1512,3.03052e-07
+P4,periodic,1.1,KKT optimal,6.54827,1584,3.95181e-17
+P4,periodic,1.1,uniform,6.54827,1584,0.00910993
+P4,periodic,1.1,proportional to mu,6.54827,1584,2.0989e-16
+P4,periodic,1.15,KKT optimal,6.54827,1656,2.76423e-28
+P4,periodic,1.15,uniform,6.54827,1656,0.00608225
+P4,periodic,1.15,proportional to mu,6.54827,1656,1.65467e-28
+P4,periodic,1.2,KKT optimal,6.54827,1728,9.76738e-44
+P4,periodic,1.2,uniform,6.54827,1728,0.00382592
+P4,periodic,1.2,proportional to mu,6.54827,1728,1.40522e-47
+P4,periodic,1.3,KKT optimal,6.54827,1872,2.4579e-86
+P4,periodic,1.3,uniform,6.54827,1872,0.00205583
+P4,periodic,1.3,proportional to mu,6.54827,1872,1.06875e-101
+P5,periodic,0.9,KKT optimal,-2.32684,1296,0.100145
+P5,periodic,0.9,uniform,-2.32684,1296,0.151085
+P5,periodic,0.9,proportional to mu,-2.32684,1296,0.100182
+P5,periodic,0.95,KKT optimal,-1.16342,1368,0.0525977
+P5,periodic,0.95,uniform,-1.16342,1368,0.119249
+P5,periodic,0.95,proportional to mu,-1.16342,1368,0.0526594
+P5,periodic,1,KKT optimal,7.29429e-11,1440,0.0171452
+P5,periodic,1,uniform,7.29429e-11,1440,0.0900691
+P5,periodic,1,proportional to mu,7.29429e-11,1440,0.0171452
+P5,periodic,1.02,KKT optimal,0.465369,1468.8,0.00896897
+P5,periodic,1.02,uniform,0.465369,1468.8,0.0793394
+P5,periodic,1.02,proportional to mu,0.465369,1468.8,0.00898601
+P5,periodic,1.05,KKT optimal,1.16342,1512,0.00259765
+P5,periodic,1.05,uniform,1.16342,1512,0.0644437
+P5,periodic,1.05,proportional to mu,1.16342,1512,0.00265939
+P5,periodic,1.1,KKT optimal,2.32684,1584,0.00014542
+P5,periodic,1.1,uniform,2.32684,1584,0.0428844
+P5,periodic,1.1,proportional to mu,2.32684,1584,0.000181804
+P5,periodic,1.15,KKT optimal,3.49027,1656,2.61243e-06
+P5,periodic,1.15,uniform,3.49027,1656,0.0251372
+P5,periodic,1.15,proportional to mu,3.49027,1656,6.37737e-06
+P5,periodic,1.2,KKT optimal,4.65369,1728,1.39084e-08
+P5,periodic,1.2,uniform,4.65369,1728,0.0117232
+P5,periodic,1.2,proportional to mu,4.65369,1728,1.27168e-07
+P5,periodic,1.3,KKT optimal,6.54827,1872,9.17448e-15
+P5,periodic,1.3,uniform,6.54827,1872,0.000736777
+P5,periodic,1.3,proportional to mu,6.54827,1872,6.70066e-12
+B1,bursty,0.9,KKT optimal,-0.0247891,1296,1.85396
+B1,bursty,0.9,uniform,-0.0247891,1296,1.91267
+B1,bursty,0.9,proportional to mu,-0.0247891,1296,1.8541
+B1,bursty,0.95,KKT optimal,-0.0124108,1368,1.82859
+B1,bursty,0.95,uniform,-0.0124108,1368,1.8907
+B1,bursty,0.95,proportional to mu,-0.0124108,1368,1.82862
+B1,bursty,1,KKT optimal,-0.000406928,1440,1.80346
+B1,bursty,1,uniform,-0.000406928,1440,1.86905
+B1,bursty,1,proportional to mu,-0.000406928,1440,1.80346
+B1,bursty,1.02,KKT optimal,0.00426564,1468.8,1.79348
+B1,bursty,1.02,uniform,0.00426564,1468.8,1.86047
+B1,bursty,1.02,proportional to mu,0.00426564,1468.8,1.79348
+B1,bursty,1.05,KKT optimal,0.0110605,1512,1.77857
+B1,bursty,1.05,uniform,0.0110605,1512,1.84769
+B1,bursty,1.05,proportional to mu,0.0110605,1512,1.7786
+B1,bursty,1.1,KKT optimal,0.022121,1584,1.7539
+B1,bursty,1.1,uniform,0.022121,1584,1.82664
+B1,bursty,1.1,proportional to mu,0.022121,1584,1.75405
+B1,bursty,1.15,KKT optimal,0.0331815,1656,1.72945
+B1,bursty,1.15,uniform,0.0331815,1656,1.80589
+B1,bursty,1.15,proportional to mu,0.0331815,1656,1.7298
+B1,bursty,1.2,KKT optimal,0.0442419,1728,1.70522
+B1,bursty,1.2,uniform,0.0442419,1728,1.78543
+B1,bursty,1.2,proportional to mu,0.0442419,1728,1.70585
+B1,bursty,1.3,KKT optimal,0.0663629,1872,1.65743
+B1,bursty,1.3,uniform,0.0663629,1872,1.74539
+B1,bursty,1.3,proportional to mu,0.0663629,1872,1.65883
+B2,bursty,0.9,KKT optimal,-0.0494279,1296,0.924799
+B2,bursty,0.9,uniform,-0.0494279,1296,1.07742
+B2,bursty,0.9,proportional to mu,-0.0494279,1296,0.925453
+B2,bursty,0.95,KKT optimal,-0.0248339,1368,0.89906
+B2,bursty,0.95,uniform,-0.0248339,1368,1.05859
+B2,bursty,0.95,proportional to mu,-0.0248339,1368,0.899234
+B2,bursty,1,KKT optimal,-0.00111595,1440,0.873802
+B2,bursty,1,uniform,-0.00111595,1440,1.04027
+B2,bursty,1,proportional to mu,-0.00111595,1440,0.873802
+B2,bursty,1.02,KKT optimal,0.00824175,1468.8,0.86383
+B2,bursty,1.02,uniform,0.00824175,1468.8,1.03309
+B2,bursty,1.02,proportional to mu,0.00824175,1468.8,0.86385
+B2,bursty,1.05,KKT optimal,0.0222201,1512,0.849013
+B2,bursty,1.05,uniform,0.0222201,1512,1.02247
+B2,bursty,1.05,proportional to mu,0.0222201,1512,0.849158
+B2,bursty,1.1,KKT optimal,0.0453844,1584,0.824687
+B2,bursty,1.1,uniform,0.0453844,1584,1.00515
+B2,bursty,1.1,proportional to mu,0.0453844,1584,0.825299
+B2,bursty,1.15,KKT optimal,0.0683631,1656,0.800821
+B2,bursty,1.15,uniform,0.0683631,1656,0.98832
+B2,bursty,1.15,proportional to mu,0.0683631,1656,0.802221
+B2,bursty,1.2,KKT optimal,0.091227,1728,0.777411
+B2,bursty,1.2,uniform,0.091227,1728,0.971956
+B2,bursty,1.2,proportional to mu,0.091227,1728,0.779917
+B2,bursty,1.3,KKT optimal,0.136955,1872,0.731953
+B2,bursty,1.3,uniform,0.136955,1872,0.940586
+B2,bursty,1.3,proportional to mu,0.136955,1872,0.73759
+B3,bursty,0.9,KKT optimal,-0.112064,1296,0.432146
+B3,bursty,0.9,uniform,-0.112064,1296,0.624472
+B3,bursty,0.9,proportional to mu,-0.112064,1296,0.43254
+B3,bursty,0.95,KKT optimal,-0.0560061,1368,0.405477
+B3,bursty,0.95,uniform,-0.0560061,1368,0.607063
+B3,bursty,0.95,proportional to mu,-0.0560061,1368,0.405585
+B3,bursty,1,KKT optimal,-0.00208885,1440,0.3799
+B3,bursty,1,uniform,-0.00208885,1440,0.590233
+B3,bursty,1,proportional to mu,-0.00208885,1440,0.3799
+B3,bursty,1.02,KKT optimal,0.0192152,1468.8,0.369969
+B3,bursty,1.02,uniform,0.0192152,1468.8,0.583654
+B3,bursty,1.02,proportional to mu,0.0192152,1468.8,0.369982
+B3,bursty,1.05,KKT optimal,0.0511712,1512,0.35539
+B3,bursty,1.05,uniform,0.0511712,1512,0.573941
+B3,bursty,1.05,proportional to mu,0.0511712,1512,0.355485
+B3,bursty,1.1,KKT optimal,0.104421,1584,0.33194
+B3,bursty,1.1,uniform,0.104421,1584,0.558151
+B3,bursty,1.1,proportional to mu,0.104421,1584,0.332337
+B3,bursty,1.15,KKT optimal,0.15744,1656,0.309544
+B3,bursty,1.15,uniform,0.15744,1656,0.542828
+B3,bursty,1.15,proportional to mu,0.15744,1656,0.310445
+B3,bursty,1.2,KKT optimal,0.210058,1728,0.288189
+B3,bursty,1.2,uniform,0.210058,1728,0.527942
+B3,bursty,1.2,proportional to mu,0.210058,1728,0.289796
+B3,bursty,1.3,KKT optimal,0.315087,1872,0.248541
+B3,bursty,1.3,uniform,0.315087,1872,0.49937
+B3,bursty,1.3,proportional to mu,0.315087,1872,0.252135
+B4,bursty,0.9,KKT optimal,-1.45623,1296,0.102222
+B4,bursty,0.9,uniform,-1.45623,1296,0.10318
+B4,bursty,0.9,proportional to mu,-1.45623,1296,0.102225
+B4,bursty,0.95,KKT optimal,-0.728114,1368,0.0593529
+B4,bursty,0.95,uniform,-0.728114,1368,0.0616574
+B4,bursty,0.95,proportional to mu,-0.728114,1368,0.0593547
+B4,bursty,1,KKT optimal,7.29429e-11,1440,0.0273956
+B4,bursty,1,uniform,7.29429e-11,1440,0.0308036
+B4,bursty,1,proportional to mu,7.29429e-11,1440,0.0273956
+B4,bursty,1.02,KKT optimal,0.291245,1468.8,0.0185494
+B4,bursty,1.02,uniform,0.291245,1468.8,0.0220395
+B4,bursty,1.02,proportional to mu,0.291245,1468.8,0.0185497
+B4,bursty,1.05,KKT optimal,0.728114,1512,0.0093529
+B4,bursty,1.05,uniform,0.728114,1512,0.0125036
+B4,bursty,1.05,proportional to mu,0.728114,1512,0.00935469
+B4,bursty,1.1,KKT optimal,1.45623,1584,0.00222204
+B4,bursty,1.1,uniform,1.45623,1584,0.00408892
+B4,bursty,1.1,proportional to mu,1.45623,1584,0.00222525
+B4,bursty,1.15,KKT optimal,2.18434,1656,0.000350846
+B4,bursty,1.15,uniform,2.18434,1656,0.00108718
+B4,bursty,1.15,proportional to mu,2.18434,1656,0.000352731
+B4,bursty,1.2,KKT optimal,2.91245,1728,3.56326e-05
+B4,bursty,1.2,uniform,2.91245,1728,0.000239431
+B4,bursty,1.2,proportional to mu,2.91245,1728,3.61452e-05
+B4,bursty,1.3,KKT optimal,4.36868,1872,8.99311e-08
+B4,bursty,1.3,uniform,4.36868,1872,6.68425e-06
+B4,bursty,1.3,proportional to mu,4.36868,1872,9.53982e-08
+B5,bursty,0.9,KKT optimal,-0.0272734,1296,2.44413
+B5,bursty,0.9,uniform,-0.0272734,1296,2.59438
+B5,bursty,0.9,proportional to mu,-0.0272734,1296,2.44417
+B5,bursty,0.95,KKT optimal,-0.0179505,1368,2.41868
+B5,bursty,0.95,uniform,-0.0179505,1368,2.57913
+B5,bursty,0.95,proportional to mu,-0.0179505,1368,2.4187
+B5,bursty,1,KKT optimal,-0.00869213,1440,2.39341
+B5,bursty,1,uniform,-0.00869213,1440,2.56406
+B5,bursty,1,proportional to mu,-0.00869213,1440,2.39342
+B5,bursty,1.02,KKT optimal,-0.00501825,1468.8,2.38336
+B5,bursty,1.02,uniform,-0.00501825,1468.8,2.55809
+B5,bursty,1.02,proportional to mu,-0.00501825,1468.8,2.38336
+B5,bursty,1.05,KKT optimal,0.000492495,1512,2.36833
+B5,bursty,1.05,uniform,0.000492495,1512,2.54919
+B5,bursty,1.05,proportional to mu,0.000492495,1512,2.36833
+B5,bursty,1.1,KKT optimal,0.00962896,1584,2.34343
+B5,bursty,1.1,uniform,0.00962896,1584,2.53449
+B5,bursty,1.1,proportional to mu,0.00962896,1584,2.34344
+B5,bursty,1.15,KKT optimal,0.0187094,1656,2.31871
+B5,bursty,1.15,uniform,0.0187094,1656,2.51998
+B5,bursty,1.15,proportional to mu,0.0187094,1656,2.31874
+B5,bursty,1.2,KKT optimal,0.0276797,1728,2.29418
+B5,bursty,1.2,uniform,0.0276797,1728,2.50565
+B5,bursty,1.2,proportional to mu,0.0276797,1728,2.29423
+B5,bursty,1.3,KKT optimal,0.0454026,1872,2.24563
+B5,bursty,1.3,uniform,0.0454026,1872,2.4775
+B5,bursty,1.3,proportional to mu,0.0454026,1872,2.2458
