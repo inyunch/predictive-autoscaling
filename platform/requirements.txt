@@ -1,0 +1,14 @@
+# Platform layer (Spark / Kafka / Airflow). Separate from the course code, which
+# only needs numpy/pandas/scipy/matplotlib. Install with the official Airflow
+# constraints so that Airflow's transitive dependencies are pinned:
+#   pip install -r platform/requirements.txt \
+#     -c https://raw.githubusercontent.com/apache/airflow/constraints-3.0.6/constraints-3.11.txt
+apache-airflow==3.0.6
+pyspark==4.0.0
+confluent-kafka==2.11.1
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.16.1
+pyarrow==18.1.0
+matplotlib>=3.8
+pytest>=8

@@ -10,6 +10,12 @@ cross-check answers.
 *CSME 831 (Computational Optimization) final project, Michigan State University.*
 Full write-up: [`report/report.md`](report/report.md) · slides: [`report/slides.md`](report/slides.md)
 
+**Platform layer** ([`platform/`](platform/README.md)): the same model deployed as a small
+production-style system: a PySpark ETL over the raw trace, a Kafka stream processor that
+emits scaling decisions every 10 minutes with crash-safe state, and an Airflow DAG that
+retrains daily and hot-swaps models. Every layer is verified against the offline study
+(0 mismatches over 5,780 streamed decisions).
+
 ## Key results
 
 | Question | Result |
